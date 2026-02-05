@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently beep booping as a software engineer at Oracle, building B2B software for utility companies to help end users track and optimize their energy savings for a greener tomorrow!<br>I like problem solving by building products to improve the world around us, particularly building tech for social good. <br>I specialize in end to end full-stack development and large-scale microservices architecture. <br>I'm currently learning about ethical AI practices and how to incorporate RAG pipelines and AI-based features into the stack. <br>If you ever want to connect or just have a chat, please drop by and say hi!
+I'm currently working as a software engineer at Oracle, building B2B software for utility companies to help end users track and optimize their energy savings for a greener tomorrow! I like problem solving by building products to improve the world around us, particularly building tech for social good. I specialize in end to end full-stack development and large-scale microservices architecture. I'm currently learning about ethical AI practices and how to incorporate RAG pipelines and AI-based features into the stack. If you ever want to connect or just have a chat, please drop by and say hi!
 
 
 ## 🌐 Socials:
